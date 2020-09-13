@@ -42,7 +42,7 @@ title: "JMP Workshop"
 
 ### Data
 
-* Coming soon.
+Download and unzip the datasets for the workshop ([data.zip](data.zip)). 
 
 ### Getting-started Resources
 
